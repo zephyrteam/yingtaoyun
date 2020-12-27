@@ -1,15 +1,8 @@
-
-
-
-
-
 ## Welcome to cherrydrive.cn
 
 [樱桃云盘](https://cherrydrive.cn/)
 
 ### 特性
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 - 支持WebDav
 - 支持离线下载
