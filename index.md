@@ -1,43 +1,30 @@
+
+
+
+
+
+## Welcome to cherrydrive.cn
+
+[樱桃云盘](https://cherrydrive.cn/)
+
+### 特性
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 - 支持WebDav
 - 支持离线下载
 - 支持公开分享
 - 高速下载
+- 免费1T存储
+- 支持百度网盘直链离线
+- 数据安全备份
+- 国内/国际存储方案
+- 稳定/维护分钟级
+- 正版订阅存储 + 多个数据中心备份
+
+### 公告
 
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/zephyrteam/yingtaoyun/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zephyrteam/yingtaoyun/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
