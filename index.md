@@ -1,3 +1,9 @@
+- 支持WebDav
+- 支持离线下载
+- 支持公开分享
+- 高速下载
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/zephyrteam/yingtaoyun/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
