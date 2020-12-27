@@ -1,6 +1,6 @@
 ## Welcome to cherrydrive.cn
 
-[樱桃云盘](https://cherrydrive.cn/)
+点击这里访问 ====>> [樱桃云盘](https://cherrydrive.cn/)
 
 ### 特性
 
